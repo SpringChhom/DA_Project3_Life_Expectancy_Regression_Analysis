@@ -2,7 +2,7 @@
 
 Data source: https://www.kaggle.com/kumarajarshi/life-expectancy-who  
 
-Project can be seen in the Jupyter Notebook file
+Project can be seen in my [Jupyter Notebook file](https://github.com/SpringChhom/DA_Project3_Life_Expectancy_Regression_Analysis/blob/main/Spring_Chhom_DA_Project3_Life_Expectancy_Analysis_and_Regression_Model.ipynb)  
 
 This dataset covers the years 2000 to 2015 and most of the world's countries. It contains the mean life expectancy for each country across the years and twenty measurable factors that are commonly found or expected to influence life expectancy.
 
