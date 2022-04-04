@@ -1,4 +1,4 @@
-# Data Analytics Project 3 - Life Expectancy Regression Analysis   
+# Data Analytics Project 3 - World Life Expectancy Regression Analysis   
 
 Data source: https://www.kaggle.com/kumarajarshi/life-expectancy-who  
 
